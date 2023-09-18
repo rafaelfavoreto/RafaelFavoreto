@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about SQL, .Net
 - 📫 How to reach me: rfavoreto7@outlook.com
-- 📄 Know about my experiences [https://www.linkedin.com/in/rafaelfavoreto/](https://www.linkedin.com/in/rafaelfavoreto/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/diego-fantini-09188b130/](https://www.linkedin.com/in/diego-fantini-09188b130/)
 
 
 <h3 align="left">Connect with me:</h3>
