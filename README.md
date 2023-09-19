@@ -2,10 +2,10 @@
 <h3 align="center">A passionate IT guy from Brazil</h3>
 
 - 🔭 I’m currently working on Carreira Desenvolvedor Backend .NET
-- 🌱 I’m currently learning in Back Entity Framework advanced, Sql, Test, AWS, Docker, Kubernetes, RabbitMQ, Apache Kafka and Muai
+- 🌱 I’m currently learning in AWS, Docker, Kubernetes, RabbitMQ, Apache Kafka and Muai
 - ⚡ I’m currently learning English language 
 - 🤔 I’m looking for help with AWS, Docker, Kubernetes, Apache Kafka and Muai
-- 💬 Ask me about SQL, .Net and Vb.Net
+- 💬 Ask me about SQL, .Net and Vb.Net and Test
 - 📫 How to reach me: rfavoreto7@outlook.com
 - 📄 Know about my experiences [https://www.linkedin.com/in/rafaelfavoreto/](https://www.linkedin.com/in/rafaelfavoreto/)
 
