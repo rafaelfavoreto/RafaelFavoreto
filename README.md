@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning in AWS, Docker, Kubernetes, RabbitMQ, Apache Kafka and Muai
 - ⚡ I’m currently learning English language 
 - 🤔 I’m looking for help with AWS, Docker, Kubernetes, Apache Kafka and Muai
-- 💬 Ask me about SQL, .Net and Vb.Net and Test
+- 💬 Ask me about SQL, .Net, Vb.Net and Test
 - 📫 How to reach me: rfavoreto7@outlook.com
 - 📄 Know about my experiences [https://www.linkedin.com/in/rafaelfavoreto/](https://www.linkedin.com/in/rafaelfavoreto/)
 
