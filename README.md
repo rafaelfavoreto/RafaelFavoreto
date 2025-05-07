@@ -1,11 +1,9 @@
 <h1 align="center"> Hi 👋, I'm Rafael Favoreto </h1>
 <h3 align="center">A passionate IT guy from Brazil</h3>
 
-- 🔭 I’m currently working on Carreira Desenvolvedor Backend .NET
+- 🔭 I’m currently working on .NET Developer
 - 🌱 I’m currently learning in AWS, Docker, Kubernetes, RabbitMQ, Apache Kafka and Maui
-- ⚡ I’m currently learning English language 
-- 🤔 I’m looking for help with AWS, Docker, Kubernetes, Apache Kafka and Muai
-- 💬 Ask me about SQL, .Net, Vb.Net and Test
+- ⚡ I’m currently learning English language
 - 📫 How to reach me: rfavoreto7@outlook.com
 - 📄 Know about my experiences [https://www.linkedin.com/in/rafaelfavoreto/](https://www.linkedin.com/in/rafaelfavoreto/)
 
